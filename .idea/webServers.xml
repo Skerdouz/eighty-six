@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="03c44f9d-6a35-4b85-89e5-2a6241183341" name="LukaServer">
+        <fileTransfer rootFolder="/home/ubuntu" accessType="SFTP" host="144.24.201.142" port="22" sshConfigId="312a1118-7741-4bd9-931c-57c5598a7765" sshConfig="ubuntu@144.24.201.142:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

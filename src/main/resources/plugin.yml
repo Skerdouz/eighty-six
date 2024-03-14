@@ -1,0 +1,6 @@
+name: Eighty-Six
+version: 1.0.0-BETA
+main: org.remiluka.Main
+description: Plugin d'alcoolemie atomique
+author: RemiLuka
+api-version: '1.20'
